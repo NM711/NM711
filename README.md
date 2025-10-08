@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me
 
-<!--
-**NM711/NM711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer with hands-on experience in automation, web/full-stack development, language design and implementation, emulator development, and procedural generation. Currently an Automation Software Developer Intern at ULimo, with a strong foundation in computer science and a passion for building efficient, creative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Operating Systems:** Linux, Windows  
+- **Programming Languages:** TypeScript, JavaScript, C++, SQL  
+- **Software Development:** Automation tooling, web applications and services, interpreter/compiler construction, emulator development  
+- **Databases:** Foundational knowledge in database design/usage for both unrelational and relational systems, with hands-on experience in MySQL, PostgreSQL, and MongoDB  
+- **Tools:** GIT, GCC, Bash, SSH, Docker  
+- **Other:** System troubleshooting, system administration tasks, object-oriented programming  
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/monroyn/) — Reach out to me on LinkedIn
