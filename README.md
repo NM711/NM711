@@ -1,6 +1,7 @@
 ## About Me
 
 Aspiring software developer with hands-on experience in automation, web/full-stack development, language design and implementation, emulator development, and procedural generation. With a strong foundation in computer science and a passion for building efficient, creative solutions.
+
 ---
 
 ## Skills
